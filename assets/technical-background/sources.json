@@ -1,0 +1,23 @@
+{
+  "source": "用户提供《养老0811.pptx》",
+  "assets": [
+    {
+      "file": "founder.png",
+      "page": 2,
+      "original": "image23.png",
+      "use": "创始人刘芳德照片，用户确认单一创始人"
+    },
+    {
+      "file": "deformation-tracking.png",
+      "page": 48,
+      "original": "image5110.png",
+      "use": "原稿形变追踪演示画面；不证明生物组织性能或新公司所有权"
+    },
+    {
+      "file": "tool-integration.png",
+      "page": 52,
+      "original": "image5141.png",
+      "use": "旧平台器械集成技术背景，非新项目交付证明"
+    }
+  ]
+}
