@@ -1,0 +1,27 @@
+{
+  "created": "2026-10-23",
+  "mode": "built-in image_gen",
+  "disclosure": "AI生成的产品概念示意，非现有样机、实测图、比例图、精确CAD或供应商背书。拟选硬件需集成及任务验证。",
+  "references": [
+    {
+      "name": "Franka Research 3",
+      "url": "https://franka.de/franka-research-3-arm"
+    },
+    {
+      "name": "WUJI Hand",
+      "url": "https://www.wuji.tech/en/hand"
+    }
+  ],
+  "assets": [
+    {
+      "file": "franka-wuji-separation.png",
+      "purpose": "产品一：组织分离",
+      "prompt": "Image 1 is the edit target, preserve its tabletop operation, single overhead binocular camera, perspective and overall composition. Image 2 is the official Franka arm appearance reference, ONLY for arm geometry. Image 3 is the official WUJI Hand appearance reference, ONLY for hand geometry. Replace BOTH generic robot arms in image 1 with two recognizable Franka Research 3-style white 7-axis collaborative arms: smooth white rounded tapered link housings, characteristic offset elbow geometry, compact dark joint collars, silver wrist flange, not teal cylindrical industrial links. Replace BOTH hands with WUJI Hand-style five-finger dexterous hands: compact BLACK palm shell, slender silver/translucent articulated finger segments with visible rotary joint elements; opposable thumb; recognizable delicate skeletal construction matching reference 3. Hands must grip the surgical tools plausibly. Reference 3's text/background are NOT part of the output. Show a conceptual wrist adaptor joining hand to arm, no claim of certified integration. Keep EXACTLY two arms, two five-finger hands and ONE overhead camera module. Preserve pale tissue, non-graphic laboratory scene, white background, high-end engineering-concept rendering. No text, logos, UI or performance figures. This is an approximate concept illustration, not a photo, validated hardware assembly, precise CAD or supplier endorsement. OPERATION: TISSUE SEPARATION. Left tweezer stabilizes a pale pink tissue sheet, right tweezer gently lifts and peels a thin flap apart, clearly exposing a separation plane. Both tweezer tips at distinct tissue points. No needle or thread. No blood."
+    },
+    {
+      "file": "franka-wuji-suturing.png",
+      "purpose": "产品二：局部组织缝合",
+      "prompt": "Image 1 is the edit target, preserve its tabletop operation, single overhead binocular camera, perspective and overall composition. Image 2 is the official Franka arm appearance reference, ONLY for arm geometry. Image 3 is the official WUJI Hand appearance reference, ONLY for hand geometry. Replace BOTH generic robot arms in image 1 with two recognizable Franka Research 3-style white 7-axis collaborative arms: smooth white rounded tapered link housings, characteristic offset elbow geometry, compact dark joint collars, silver wrist flange, not teal cylindrical industrial links. Replace BOTH hands with WUJI Hand-style five-finger dexterous hands: compact BLACK palm shell, slender silver/translucent articulated finger segments with visible rotary joint elements; opposable thumb; recognizable delicate skeletal construction matching reference 3. Hands must grip the surgical tools plausibly. Reference 3's text/background are NOT part of the output. Show a conceptual wrist adaptor joining hand to arm, no claim of certified integration. Keep EXACTLY two arms, two five-finger hands and ONE overhead camera module. Preserve pale tissue, non-graphic laboratory scene, white background, high-end engineering-concept rendering. No text, logos, UI or performance figures. This is an approximate concept illustration, not a photo, validated hardware assembly, precise CAD or supplier endorsement. OPERATION: SUTURING. Left tweezer stabilizes one tissue edge; right hand grips a ring-handled needle holder whose jaws securely hold ONE curved needle at its mid-body. A thin blue suture thread is attached at the needle's eye/tail, NOT to the robot hand. The needle passes one of two adjacent tissue edges; two or three neat stitch loops join edges behind the active point. No floating needle. No blood."
+    }
+  ]
+}
