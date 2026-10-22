@@ -1,0 +1,29 @@
+{
+  "source": "养老0811.pptx",
+  "clips": [
+    {
+      "file": "egg-shell.mp4",
+      "slide": 11,
+      "original": "media1.mp4",
+      "start": 0,
+      "duration": 9.917
+    },
+    {
+      "file": "laparoscopy-excerpt.mp4",
+      "slide": 16,
+      "original": "media6.mp4",
+      "start": 14,
+      "duration": 12,
+      "attribution": "央视报道节选"
+    },
+    {
+      "file": "balloon-writing.mp4",
+      "slide": 15,
+      "original": "media5.mp4",
+      "start": 122,
+      "duration": 15,
+      "attribution": "东方卫视报道节选"
+    }
+  ],
+  "disclosure": "仅作相关既有演示，不代表新平台已交付、已验收或已经验证的自主手术能力。"
+}
