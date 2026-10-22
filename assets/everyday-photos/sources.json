@@ -1,0 +1,29 @@
+{
+  "usage": "第2页日常应用示例，非项目成果或客户背书",
+  "license": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "retrieved": "2026-10-23",
+  "photos": [
+    {
+      "file": "food-preparation.jpg",
+      "category": "食品处理",
+      "alt": "双手用刀切洋葱，展示食品的抓持与切割场景",
+      "author": "Katerina Holmes",
+      "source": "https://www.pexels.com/photo/crop-woman-cutting-onion-in-kitchen-5908050/"
+    },
+    {
+      "file": "folding-clothes.jpg",
+      "category": "衣物整理",
+      "alt": "双手在床面整理和折叠衣物",
+      "author": "Polina Tankilevitch",
+      "source": "https://www.pexels.com/photo/a-person-arranging-folded-clothes-over-the-bed-4440571/"
+    },
+    {
+      "file": "hair-care.jpg",
+      "category": "个人护理",
+      "alt": "理发师用手为顾客洗发和按摩头部",
+      "author": "Luis Quintero",
+      "source": "https://www.pexels.com/photo/a-man-getting-his-hair-washed-by-a-hairdresser-20092123/"
+    }
+  ]
+}
