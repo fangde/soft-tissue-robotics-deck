@@ -1,0 +1,30 @@
+{
+  "checked": "2026-10-23",
+  "assets": [
+    {
+      "file": "eka-logo.svg",
+      "source": "https://ekarobotics.com/",
+      "asset": "https://framerusercontent.com/images/9PtQVSJ8gvmpxyfGVlDrmXswA.svg?width=2557&height=750"
+    },
+    {
+      "file": "eka-product.jpg",
+      "source": "https://ekarobotics.com/",
+      "asset": "https://framerusercontent.com/images/MAHj7CtpZXNAQycBH6V2m2BSg0.jpg?height=1503&width=4096"
+    },
+    {
+      "file": "intuitive-logo.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Intuitive_Surgical_logo.svg",
+      "author": "Intuitive Surgical",
+      "note": "公司文字标志，仅作对比识别"
+    },
+    {
+      "file": "intuitive-product.jpg",
+      "source": "https://www.intuitive.com/en-us/about-us/newsroom/press-resources",
+      "asset": "https://isi-static.imgix.net/en-us/-/media/ISI/Intuitive/Images/Davinci/da-vinci-5-surgical-system.jpg"
+    },
+    {
+      "file": "../product-concepts/franka-wuji-suturing-microscope.png",
+      "note": "AI生成产品概念图，非原型实拍；Symmetry采用演示稿文字字标，非正式品牌设计"
+    }
+  ]
+}
