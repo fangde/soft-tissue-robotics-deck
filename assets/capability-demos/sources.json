@@ -22,5 +22,12 @@
       }
     ]
   },
-  "tracking": "素材与具体能力待用户确认"
+  "motion_compensation": {
+    "original": "0506f49300678dd93d519dcfdf7bb38c.mp4",
+    "original_duration": 60,
+    "start": 15,
+    "duration": 20,
+    "caption_in_video": "云百生手术机器人运动补偿",
+    "interpretation": "人工移动器械时机械臂调整姿态；未确认视觉目标跟踪或补偿性能"
+  }
 }
