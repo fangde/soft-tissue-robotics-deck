@@ -1,0 +1,25 @@
+{
+  "updated": "2026-10-23",
+  "purpose": "创始人页教育经历标识与Mako产品配图；不增加机构背书、任职或开发关系。",
+  "assets": [
+    {
+      "file": "hit-emblem.png",
+      "source_page": "https://www.hit.edu.cn/12254/list.htm",
+      "asset_url": "https://www.hit.edu.cn/_upload/article/images/d3/ec/8fcaa5d24cb59a8e9660324ef50b/735df70a-538b-4bd6-8e52-3f373085a616.png",
+      "use": "哈尔滨工业大学校徽，配合已有本科、硕士经历"
+    },
+    {
+      "file": "imperial-crest.png",
+      "source_page": "https://www.imperial.ac.uk/about/history/crest/",
+      "download_page": "https://commons.wikimedia.org/wiki/File:Imperial_College_London-CREST.png",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Imperial_College_London-CREST.png",
+      "use": "帝国理工学院校徽，配合已有博士后经历"
+    },
+    {
+      "file": "mako-robot.jpg",
+      "source_page": "https://www.stryker.com/us/en/joint-replacement/systems/Mako_SmartRobotics_Overview.html",
+      "asset_url": "https://media-assets.stryker.com/is/image/stryker/Mako%204%20TKA%20and%20Q%20Guidance%204K%20%281%29?%24max_width_1440%24=",
+      "use": "Stryker官方产品图，展示Mako机器人；不标为创始人自研原型"
+    }
+  ]
+}
